@@ -9,3 +9,5 @@ Feartures of the project:-
   <li>Q/A on any given large textual data. (works like chatgpt)</li>
   <li>Content and context analysis of any given textual data</li>
 </ul>
+
+<h3>You can run the program via jupyter notebook or by using app.py(which is powered by streamlit (WEBAPP) version of this.)</h3>
