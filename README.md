@@ -11,3 +11,13 @@ Feartures of the project:-
 </ul>
 
 <h3>You can run the program via jupyter notebook or by using app.py(which is powered by streamlit (WEBAPP) version of this.)</h3>
+
+<h4> Some Pics</h4>
+<img src="./outputs_streamlit/Capture.PNG"/>
+<br/>
+<img src="./outputs_streamlit/Capture4.PNG"/>
+
+<br/>
+<br/>
+
+<h2 align="center">The End !</h2>
